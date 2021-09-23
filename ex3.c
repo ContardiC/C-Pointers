@@ -8,7 +8,7 @@ int F(int *p){
     return *p-2;
 }
 int G(int x, int *p){
-    *p+=4;
+    *p+=x;
     return 1;
 }
 int main(){
