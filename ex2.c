@@ -4,7 +4,6 @@
 
 #include<stdio.h>
 int F(int *p, int x){
-
     while(x>1){
         *p=+2;
         x--;
