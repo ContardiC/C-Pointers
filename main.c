@@ -1,5 +1,8 @@
+//
+// Created by Carlo Contardi on 23/09/2021.
+//
+/*
 #include <stdio.h>
-
 int main() {
     int a=3;
     int *p;
@@ -11,3 +14,4 @@ int main() {
     printf("Valore indirizzo di a: %d \n",&a);
     return 0;
 }
+*/
