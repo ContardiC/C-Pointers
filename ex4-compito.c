@@ -1,7 +1,7 @@
 //
 // Created by Carlo Contardi on 24/09/2021.
 //
-
+/*
 #include<stdio.h>
 int F(int *p){
     *p=*p+4;
@@ -28,3 +28,4 @@ int main(){
     printf("A: %d ; B: %d; C: %d",a,b,c);
     return 0;
 }
+*/
